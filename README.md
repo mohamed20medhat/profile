@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mohamed20medhat
-- 👀 I’m interested in ... Computer science in general 
-- 🌱 I’m currently learning ... web development 
-- 💞️ I’m looking to collaborate on ... front-end projects 
+- 👀 I’m interested in ... web development 
+- 🌱 I’m currently learning ... flask 
+- 💞️ I’m looking to collaborate on ... fullstack web projects 
 - 📫 How to reach me ...  
 ==> linked in profile [" https://www.linkedin.com/in/mohamed-medhat-337b811b8/ "]
 
