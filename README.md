@@ -1,11 +1,15 @@
-- 👋 Hi, I’m Mohamed Medhat
-- 👀 I’m interested in ... web development 
-- 🌱 I’m currently doing mern projects
-- 💞️ I’m looking to collaborate on ... fullstack web projects 
-- 📫 How to reach me ...  
-==> linked in profile [" https://www.linkedin.com/in/mohamed-medhat-337b811b8/ "]
+# Mohamed Medhat
+- Full stack developer || MERN stack
+- 
 
-<!---
-mohamed20medhat/mohamed20medhat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+# Live websites
+- [personal portfolio](https://nextjs-portfolio-tailwind-2cqf16969-mohamed20medhat.vercel.app/)
+- 
+
+
+# Contact Me 
+- [linkedIn](https://www.linkedin.com/in/mohamed-medhat-337b811b8/)
+- [Email](egailmohamed2018@gmail.com)
+- 
